@@ -39,6 +39,7 @@ Sometimes, I join in larger teams to compete large contests like DEFCON.
 
 I list my achievements in CTF contests below. However, please note that due to the collaborative nature of CTFs, my individual contribution varied from one CTF to another :)
 
+TBD
 
 ### My CTF Challenges
 
