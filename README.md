@@ -8,6 +8,13 @@ I'm Hiroyuki Katsura, 2nd-year PhD student, supervised by [Naoki Kobayashi](http
 - Software security
 - Fuzzing
 
+Apart from researching, I'm a big fan of
+- Capture The Flag (security competition), especially pwnable
+- Low-level programming
+- Dripping coffee "nicely"
+- Bouldering
+- Board games
+
 ## Publications
 
 - Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. 2023. Higher-Order Property-Directed Reachability. Proc. ACM Program. Lang. 7, ICFP, Article 190 (August 2023), 30 pages. https://doi.org/10.1145/3607831
@@ -17,7 +24,24 @@ I'm Hiroyuki Katsura, 2nd-year PhD student, supervised by [Naoki Kobayashi](http
 
 ## Education
 
+TBD
+
 * Apr 2020 - Mar 2022, Master of 
 * 
 
-* 
+
+
+## CTF (Capture The Flag)
+
+I have been playing CTFs as a member of an university team [TSG](https://ctftime.org/team/16088) whose team members are all from The University of Tokyo.
+Sometimes, I join in larger teams to compete large contests like DEFCON.
+
+
+I list my achievements in CTF contests below. However, please note that due to the collaborative nature of CTFs, my individual contribution varied from one CTF to another :)
+
+
+### My CTF Challenges
+
+TBD
+
+
