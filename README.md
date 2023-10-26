@@ -70,7 +70,7 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
   - Developed Rust bindings for libguestfs, which provides a set of tools for manipulating and communicating with virtual machine disk images ([archive](https://summerofcode.withgoogle.com/archive/2019/projects/5735547409006592/)).
 - osmium: an operating system written in Rust which runs on RISC-V
   - Developed an operating system on RISC-V from scratch using Rust ([article(ja)](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802), [translated one by cb372](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)).
-  - Repo: https://github.com/moratorium08/osmium (Stars +170)
+  - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars +170)
 
 ## CTF (Capture The Flag)
 
