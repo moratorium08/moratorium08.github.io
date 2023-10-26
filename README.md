@@ -7,7 +7,7 @@ I'm Hiroyuki Katsura, 2nd-year PhD student, supervised by [Naoki Kobayashi](http
 - Email:
   - University: katsura[at]kb.is.s.u-tokyo.ac.jp
   - Gmail: moratorium08[at]gmail.com
-- GitHub: [moratorium08](https://github.com/moratorium08)
+- [GitHub: moratorium08](https://github.com/moratorium08)
 - [Linkedin](https://www.linkedin.com/in/hiroyuki-katsura-325889134/)
 
 ## Research Interests
@@ -62,7 +62,7 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
 
 - Sep 2022 - Feb 2023: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
 - Apr 2023 - Aug 2023: [Functional and Logic Programming Lab](https://catalog.he.u-tokyo.ac.jp/detail?code=0510031&year=2023)
-- Sep 2020 - Feb 2021: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)]
+- Sep 2020 - Feb 2021: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
 
 ### Projects
 
