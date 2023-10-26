@@ -2,6 +2,14 @@
 
 I'm Hiroyuki Katsura, 2nd-year PhD student, supervised by [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/) in 3-year PhD course at Dept. of Computer Science, [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml) of The University of Tokyo. 
 
+## Contacts
+
+- Email:
+  - University: katsura[at]kb.is.s.u-tokyo.ac.jp
+  - Gmail: moratorium08[at]gmail.com
+- GitHub: [moratorium08](https://github.com/moratorium08)
+- [Linkedin](https://www.linkedin.com/in/hiroyuki-katsura-325889134/)
+
 ## Research Interests
 
 - Software verification
@@ -54,7 +62,15 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
 
 - Sep 2022 - Feb 2023: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
 - Apr 2023 - Aug 2023: [Functional and Logic Programming Lab](https://catalog.he.u-tokyo.ac.jp/detail?code=0510031&year=2023)
-- Sep 2020 - Feb 2021: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
+- Sep 2020 - Feb 2021: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)]
+
+### Projects
+
+- Google Summer of Code, Libvirt organization | Participant  Mar - Aug 2019
+  - Developed Rust bindings for libguestfs, which provides a set of tools for manipulating and communicating with virtual machine disk images ([archive](https://summerofcode.withgoogle.com/archive/2019/projects/5735547409006592/)).
+- osmium: an operating system written in Rust which runs on RISC-V
+  - Developed an operating system on RISC-V from scratch using Rust ([article(ja)](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802), [translated one by cb372](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)).
+  - Repo: https://github.com/moratorium08/osmium (Stars +170)
 
 ## CTF (Capture The Flag)
 
