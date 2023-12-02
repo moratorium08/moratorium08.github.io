@@ -71,13 +71,15 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
 - osmium: an operating system written in Rust which runs on RISC-V
   - Developed an operating system on RISC-V from scratch using Rust ([article(ja)](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802), [translated one by cb372](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)).
   - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars +170)
+  - 
+
 
 ## CTF (Capture The Flag)
 
 I have been playing CTFs as a member of an university team [TSG](https://ctftime.org/team/16088) whose team members are all from The University of Tokyo.
-Sometimes, I join in larger teams to compete large contests like DEFCON.
+Sometimes, I join in larger teams to compete large contests like DEFCON. I mainly play pwnable (binary exploit) and reversing.
 
-I list some of my achievements in CTF contests below. Note that due to the collaborative nature of CTFs, my individual contribution varied from one CTF to another :)
+Here are some of my achievements in CTF contests. Note that due to the collaborative nature of CTFs, my individual contribution varied from one CTF to another :)
 
 - As a member of TSG
   - SECCON 2022: [International Finalists](https://ctftime.org/event/1864/)
@@ -92,7 +94,47 @@ I list some of my achievements in CTF contests below. Note that due to the colla
 
 ### My CTF Challenges
 
-I have created a lot of CTF challenges so far from easy one to harder one: please refer to this page(TBD)
+I have created a lot of CTF challenges so far from easy one to harder one: please refer to this page(TBD).
 
+My favorite ones are
+
+- [chat (pwnable) TSG CTF 2021](https://github.com/tsg-ut/tsgctf2021/tree/main/pwn/chat)
+- [Catastrophe (pwnable) TSG CTF 2021](https://github.com/tsg-ut/tsgctf2021/tree/main/pwn/catastrophe)
+- [seccon tree (pwnable) SECCON CTF 2021](https://github.com/SECCON/SECCON2021_online_CTF/tree/main/pwnable/seccon_tree)
+
+
+Random collection of my writeups of my challenges:
+
+- [bypy @ TSG CTF 2023](https://github.com/moratorium08/ctf_writeups/tree/master/2023/TSG_CTF_2023)
+- [sloader @TSG CTF 2023](https://github.com/moratorium08/ctf_writeups/tree/master/2023/TSG_CTF_2023)
+- [👻 @TSG CTF 2023](https://github.com/moratorium08/ctf_writeups/tree/master/2023/TSG_CTF_2023)
+- [Conduit @TSG CTF 2023](https://github.com/moratorium08/ctf_writeups/tree/master/2023/TSG_CTF_2023)
+- [seccon_tree @SECCON CTF 2021](https://hackmd.io/@moratorium08/HJHkkJfct)
+- [dis-me @SECCON CTF 2021](https://hackmd.io/@moratorium08/SJNZwf75F)
+- [cHeap @TSG CTF 2021](https://hackmd.io/@moratorium08/BJ3j8-wNK)
+- [Catastrophe @TSG CTF 2021](https://hackmd.io/@moratorium08/S161A2LNt)
+- [chat @TSG CTF 2021](https://hackmd.io/@moratorium08/Sk7puL84Y), co-authored with [azaika](https://twitter.com/azaika_)
+- [Cling @TSG CTF 2021](https://hackmd.io/@moratorium08/S1ig4xwVF)
+- [Coffee @TSG CTF 2021](https://hackmd.io/@moratorium08/ryMcaePVY)
+
+
+## Other Activities
+
+### ISUCON
+
+[ISUCON](https://isucon.net/) is a Japanese contest held by LINE corp, where participants aim to maximize the speed of a given web service within set regulations.
+I have played ISUCON six times as a member of [FetchDecodeExecWrite](https://github.com/FetchDecodeExecWrite).
+
+- [ISUCON 13 5th](https://isucon.net/archives/57993937.html)
+- [ISUCON 12 5th](https://isucon.net/archives/56923294.html)
+- [ISUCON 11 3rd](https://isucon.net/archives/56098785.html)
+- [ISUCON 10 6th](https://isucon.net/archives/55076348.html)
+- [ISUCON 9 finalists](https://isucon.net/archives/53789925.html)
+- [ISUCON 8 finalists](https://isucon.net/archives/52459414.html)
+
+### Security Camp
+
+- [Global Cybersecurity Camp 2021](https://gcc.ac/gcc_2021/)
+- [Security Camp 2013](https://www.ipa.go.jp/en/about/it-talents/security-camp.html)
 
 
