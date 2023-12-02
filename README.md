@@ -25,10 +25,10 @@ Apart from researching, I'm a big fan of
 
 ## Publications
 
-- Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. 2023. Higher-Order Property-Directed Reachability. Proc. ACM Program. Lang. 7, ICFP, Article 190 (August 2023), 30 pages. https://doi.org/10.1145/3607831
-- Yuki Koike, Hiroyuki Katsura, Hiromu Yakura, and Yuma Kurogome: SLOPT: Bandit Optimization Framework for Mutation-Based Fuzzing, In Proceedings of the 38th Annual Computer Security Applications Conference (ACSAC 2022), pp. 519-533, December 2022. 
-- Kazuyuki Asada, Hiroyuki Katsura, and Naoki Kobayashi. 2022. On Higher-Order Reachability Games Vs May Reachability. In Reachability Problems: 16th International Conference, RP 2022, Kaiserslautern, Germany, October 17–21, 2022, Proceedings. Springer-Verlag, Berlin, Heidelberg, 108–124. https://doi.org/10.1007/978-3-031-19135-0_8
-- Hiroyuki Katsura, Naoki Iwayama, Naoki Kobayashi, and Takeshi Tsukada. 2020. A New Refinement Type System for Automated νHFLZ Validity Checking. In Programming Languages and Systems: 18th Asian Symposium, APLAS 2020, Fukuoka, Japan, November 30 – December 2, 2020, Proceedings. Springer-Verlag, Berlin, Heidelberg, 86–104. https://doi.org/10.1007/978-3-030-64437-6_5
+- Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. 2023. [Higher-Order Property-Directed Reachability](https://doi.org/10.1145/3607831). Proc. ICFP 2023.
+- Yuki Koike, Hiroyuki Katsura, Hiromu Yakura, and Yuma Kurogome: [SLOPT: Bandit Optimization Framework for Mutation-Based Fuzzing](https://doi.org/10.1007/978-3-031-19135-0_8), ACSAC 2022.
+- Kazuyuki Asada, Hiroyuki Katsura, and Naoki Kobayashi. 2022. [On Higher-Order Reachability Games Vs May Reachability](https://doi.org/10.1007/978-3-031-19135-0_8). RP 2022.
+- Hiroyuki Katsura, Naoki Iwayama, Naoki Kobayashi, and Takeshi Tsukada. 2020. [A New Refinement Type System for Automated νHFLZ Validity Checking. In Programming Languages and Systems](https://doi.org/10.1007/978-3-030-64437-6_5). Proc. APLAS 2020.
 
 ## Education
 
