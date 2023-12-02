@@ -50,7 +50,7 @@ Apart from researching, I'm a big fan of
   - Studied fuzzing with reinforcement learning
 - Aug - Sep 2020: LINE corp, Tokyo
   - Developed an automated update for hypervisors on OpenStack using Kubernetes Operator Pattern ([blog post[ja]](https://engineering.linecorp.com/ja/blog/internship-report20-hypervisor-update-system-with-kubernetes)).
-- Aug 2-17 - Jul 2018: Flatt Inc, Tokyo
+- Aug 2017 - Jul 2018: Flatt Inc, Tokyo
   - Developed a backend infrastructure for a live commerce app
   - Designed a scalable live streaming infrastructure using GCP
 - Sep 2016 - Oct 2017: Unipro Inc, Tokyo
@@ -71,7 +71,6 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
 - osmium: an operating system written in Rust which runs on RISC-V
   - Developed an operating system on RISC-V from scratch using Rust ([article(ja)](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802), [translated one by cb372](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)).
   - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars +170)
-  - 
 
 
 ## CTF (Capture The Flag)
