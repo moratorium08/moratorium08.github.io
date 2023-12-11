@@ -115,6 +115,10 @@ Random collection of my writeups of my challenges:
 - [chat @TSG CTF 2021](https://hackmd.io/@moratorium08/Sk7puL84Y), co-authored with [azaika](https://twitter.com/azaika_)
 - [Cling @TSG CTF 2021](https://hackmd.io/@moratorium08/S1ig4xwVF)
 - [Coffee @TSG CTF 2021](https://hackmd.io/@moratorium08/ryMcaePVY)
+- [Yet Another PySandbox @SECCON CTF 2020](https://moraprogramming.hateblo.jp/entry/2020/10/14/185946)
+- [Yet^2 Another PySandbox @SECCON CTF 2020](https://moraprogramming.hateblo.jp/entry/2020/10/14/185946)
+- [mlml@SECCON CTF 2020](https://moraprogramming.hateblo.jp/entry/2020/10/14/185946)
+- [Fixer@SECCON CTF 2020](https://moraprogramming.hateblo.jp/entry/2020/10/14/185946)
 
 
 ## Other Activities
