@@ -19,7 +19,7 @@ I'm Hiroyuki Katsura, 2nd-year PhD student, supervised by [Naoki Kobayashi](http
 Apart from researching, I'm a big fan of
 - Capture The Flag (security competition), especially pwnable
 - Low-level programming
-- Dripping coffee "nicely"
+- Brewing drip coffee "nicely"
 - Bouldering
 - Board games
 
