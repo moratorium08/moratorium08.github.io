@@ -126,7 +126,7 @@ Random collection of my writeups of my challenges:
 
 ### ISUCON
 
-[ISUCON](https://isucon.net/) is a Japanese contest held by LINE corp, where participants aim to maximize the speed of a given web service within set regulations.
+[ISUCON](https://isucon.net/) is a Japanese contest held by LINE corp, where participants aim to fine-tune a given web service within set regulations.
 I have played ISUCON six times as a member of [FetchDecodeExecWrite](https://github.com/FetchDecodeExecWrite).
 
 - [ISUCON 13 5th](https://isucon.net/archives/57993937.html)
