@@ -25,7 +25,7 @@ Apart from researching, I'm a big fan of
 
 ## Publications
 
-- Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. [Higher-Order Property-Directed Reachability](https://doi.org/10.1145/3607831). ICFP 2023.
+- Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. [Higher-Order Property-Directed Reachability](https://doi.org/10.1145/3607831). ICFP 2023. [[video](https://www.youtube.com/watch?v=Pm4Oh_PDe9c)]
 - Yuki Koike, Hiroyuki Katsura, Hiromu Yakura, and Yuma Kurogome: [SLOPT: Bandit Optimization Framework for Mutation-Based Fuzzing](https://doi.org/10.1007/978-3-031-19135-0_8), ACSAC 2022.
 - Kazuyuki Asada, Hiroyuki Katsura, and Naoki Kobayashi.  [On Higher-Order Reachability Games Vs May Reachability](https://doi.org/10.1007/978-3-031-19135-0_8). RP 2022.
 - Hiroyuki Katsura, Naoki Iwayama, Naoki Kobayashi, and Takeshi Tsukada. [A New Refinement Type System for Automated νHFLZ Validity Checking](https://doi.org/10.1007/978-3-030-64437-6_5). APLAS 2020.
