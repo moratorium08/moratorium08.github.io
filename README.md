@@ -94,7 +94,7 @@ Here are some of my achievements in CTF contests. Note that due to the collabora
 
 ### My CTF Challenges
 
-I have created a lot of CTF challenges so far from easy one to harder one: please refer to this page(TBD).
+I have created a lot of CTF challenges so far from easy one to harder one: please refer to this page　(TBD).
 
 My favorite ones are
 
