@@ -12,9 +12,14 @@ I'm Hiroyuki Katsura, 2nd-year PhD student, supervised by [Naoki Kobayashi](http
 
 ## Research Interests
 
-- Software verification
-- Software security
-- Fuzzing
+My main research interest is to propose analyses to enhance software reliability.
+This includes:
+
+- (Automated) Software verification
+  - Logic-based automated software verification (c.f. CHC solving)
+  - Refinement types
+- Software security 
+  - Fuzzing
 
 Apart from researching, I'm a big fan of
 - Capture The Flag (security competition), especially pwnable
