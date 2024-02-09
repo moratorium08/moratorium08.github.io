@@ -21,12 +21,7 @@ This includes:
 - Software security 
   - Fuzzing
 
-Apart from researching, I'm a big fan of
-- Capture The Flag (security competition), especially pwnable
-- Low-level programming
-- Brewing drip coffee "nicely"
-- Bouldering
-- Board games
+
 
 ## Publications
 
@@ -146,4 +141,11 @@ I have played ISUCON six times as a member of [FetchDecodeExecWrite](https://git
 - [Global Cybersecurity Camp 2021](https://gcc.ac/gcc_2021/)
 - [Security Camp 2013](https://www.ipa.go.jp/en/about/it-talents/security-camp.html)
 
+## Hobbies
 
+Apart from researching, I'm a big fan of
+- Capture The Flag (security competition), especially pwnable
+- Low-level programming
+- Brewing drip coffee "nicely"
+- Bouldering
+- Board games
