@@ -147,5 +147,5 @@ Apart from researching, I'm a big fan of
 - Capture The Flag (security competition), especially pwnable
 - Low-level programming
 - Brewing drip coffee "nicely"
-- Bouldering
+- Bouldering / Climbing
 - Board games
