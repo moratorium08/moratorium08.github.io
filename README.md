@@ -1,6 +1,6 @@
 # Hiroyuki Katsura (桂 宏行)
 
-I'm Hiroyuki Katsura, 2nd-year PhD student, supervised by [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/) in 3-year PhD course at Dept. of Computer Science, [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml) of The University of Tokyo. 
+I'm Hiroyuki Katsura, 3rd-year PhD student, supervised by [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/) in 3-year PhD course at Dept. of Computer Science, [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml) of The University of Tokyo. 
 
 ## Contacts
 
