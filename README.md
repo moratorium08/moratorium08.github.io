@@ -72,7 +72,7 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
   - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars +190)
 
 
-## CTF (Capture The Flag)
+## CTF (Capture The Flag; Software Security Competition)
 
 I have been playing CTFs as a member of an university team [TSG](https://ctftime.org/team/16088) whose team members are all from The University of Tokyo.
 Sometimes, I join in larger teams to compete large contests like DEFCON. I mainly play pwnable (binary exploit) and reversing.
