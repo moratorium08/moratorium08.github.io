@@ -86,6 +86,7 @@ Here are some of my achievements in CTF contests. Note that due to the collabora
   - Codeblue CTF 2018: [Finalists](https://ctftime.org/event/670)
   - SECCON 2018 International Finals: [Winner](https://2018.seccon.jp/2019/01/final-result-of-seccon-ctf-2018.html)
 - As a member of other teams
+  - DEFCON CTF 2024 Qualifier [11th](https://ctftime.org/event/2229) as a member of `undef1ned`
   - SECCON CTF Domestic Finals 2023: [winner](https://ctftime.org/event/2160) as a member of `:)`
   - DEFCON CTF 2023: [finalists](https://ctftime.org/event/2078/) as a member of `undef1ned`
   - DEFCON CTF 2022: [finalists](https://ctftime.org/event/1662/) as a member of `./V /home/r/.bin/tw`
