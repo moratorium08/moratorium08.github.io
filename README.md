@@ -70,8 +70,7 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
   - Developed Rust bindings for libguestfs, which provides a set of tools for manipulating and communicating with virtual machine disk images ([archive](https://summerofcode.withgoogle.com/archive/2019/projects/5735547409006592/)).
 - osmium: an operating system written in Rust which runs on RISC-V
   - Developed an operating system on RISC-V from scratch using Rust ([article(ja)](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802), [translated one by cb372](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)).
-  - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars +190)
-
+  - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars 200+)
 
 ## CTF (Capture The Flag; Software Security Competition)
 
@@ -106,6 +105,10 @@ My favorite ones are
 
 Random collection of my writeups of my challenges:
 
+- [SQLite of Hand @ TSG CTF 2024](https://github.com/moratorium08/ctf_writeups/tree/master/2024/tsgctf#sqlite-of-hand-co-authored-with-mikit-pwn-4-solves), co-authored with [mikit](https://x.com/m1kit)
+- [H* @ TSG CTF 2024](https://github.com/moratorium08/ctf_writeups/tree/master/2024/tsgctf#h-misc-4-solves)
+- [Cached File Viewer @ TSG CTF 2024](https://github.com/moratorium08/ctf_writeups/tree/master/2024/tsgctf#cached-file-viewer-2-co-author-httpsxcomazaika_-misc-pwn-76-solves-ver1--12-solves-ver2-), co-authored with [azaika](https://twitter.com/azaika_)
+- [Warmup SQLite @ TSG CTF 2024](https://github.com/moratorium08/ctf_writeups/tree/master/2024/tsgctf#warmup-sqlite-rev-24-solves), co-authored with [mikit](https://x.com/m1kit)
 - [bypy @ TSG CTF 2023](https://github.com/moratorium08/ctf_writeups/tree/master/2023/TSG_CTF_2023)
 - [sloader @TSG CTF 2023](https://github.com/moratorium08/ctf_writeups/tree/master/2023/TSG_CTF_2023)
 - [👻 @TSG CTF 2023](https://github.com/moratorium08/ctf_writeups/tree/master/2023/TSG_CTF_2023)
@@ -130,6 +133,7 @@ Random collection of my writeups of my challenges:
 [ISUCON](https://isucon.net/) is a Japanese contest held by LINE corp, where participants aim to fine-tune a given web service within set regulations.
 I have played ISUCON six times as a member of [FetchDecodeExecWrite](https://github.com/FetchDecodeExecWrite).
 
+- [ISUCON 13 20th](https://isucon.net/archives/58837992.html)
 - [ISUCON 13 5th](https://isucon.net/archives/57993937.html)
 - [ISUCON 12 5th](https://isucon.net/archives/56923294.html)
 - [ISUCON 11 3rd](https://isucon.net/archives/56098785.html)
