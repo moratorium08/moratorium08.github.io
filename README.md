@@ -80,6 +80,7 @@ Sometimes, I join in larger teams to compete large contests like DEFCON. I mainl
 Here are some of my achievements in CTF contests. Note that due to the collaborative nature of CTFs, my individual contribution varied from one CTF to another :)
 
 - AlpacaHack ID: [mora](https://alpacahack.com/users/mora)
+  - A platform for solo CTF contests
 - As a member of TSG
   - SECCON 2022: [International Finalists](https://ctftime.org/event/1864/)
   - CTFZone 2020: [Finalists](https://ctftime.org/event/967)
