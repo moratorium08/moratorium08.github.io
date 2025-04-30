@@ -1,8 +1,7 @@
 # Hiroyuki Katsura (桂 宏行)
 
-I'm currently a Research Associate at the University of Cambridge, working with Prof. Peter Sewell on the REMS project. I completed my PhD at the University of Tokyo under the supervision of Prof. Naoki Kobayashi, where I focused on logic-based automated verification for higher-order programs. 
-My main research interest is in proposing analyses to enhance software reliability, including automated software verification (specifically, CHC solving), type theory, and software security techniques such as fuzzing.
-
+I'm currently a Research Associate at the University of Cambridge, working with Prof. [Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) in the [REMS group](https://www.cl.cam.ac.uk/~pes20/people-new/index.html). I completed my PhD at the University of Tokyo under the supervision of Prof. [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/), where I focused on logic-based automated verification for higher-order programs. 
+My primary research interests lie in program analyses to improve software reliability, including automated program verification (in particular, fixpoint logic solvers), type theory, and software security techniques such as fuzzing.
 
 ## Contacts
 
@@ -81,7 +80,7 @@ Here are some of my achievements in CTF contests. Note that due to the collabora
   - Codeblue CTF 2018: [Finalists](https://ctftime.org/event/670)
   - SECCON 2018 International Finals: [Winner](https://2018.seccon.jp/2019/01/final-result-of-seccon-ctf-2018.html)
 - As a member of other teams
-  - SECCON CTF 13 Domestic Finals: [winner](https://ctftime.org/event/2650) as a member of `BunkyoWesterns¥`
+  - SECCON CTF 13 Domestic Finals: [winner](https://ctftime.org/event/2650) as a member of `BunkyoWesterns`
   - DEFCON CTF 2024 Qualifier [11th](https://ctftime.org/event/2229) as a member of `undef1ned`
   - SECCON CTF Domestic Finals 2023: [winner](https://ctftime.org/event/2160) as a member of `:)`
   - DEFCON CTF 2023: [finalists](https://ctftime.org/event/2078/) as a member of `undef1ned`
