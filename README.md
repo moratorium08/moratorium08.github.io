@@ -1,6 +1,6 @@
 # Hiroyuki Katsura (桂 宏行)
 
-I'm currently a Research Associate at the University of Cambridge, working with Prof. [Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) in the [REMS group](https://www.cl.cam.ac.uk/~pes20/people-new/index.html). I completed my PhD at the University of Tokyo under the supervision of Prof. [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/), where I focused on logic-based automated verification for higher-order programs. 
+I'm currently a Research Associate at University of Cambridge, working with Prof. [Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) in the [REMS group](https://www.cl.cam.ac.uk/~pes20/people-new/index.html). I completed my PhD at the University of Tokyo under the supervision of Prof. [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/), where I focused on logic-based automated verification for higher-order programs. 
 My primary research interests lie in program analyses to improve software reliability, including automated program verification (in particular, fixpoint logic solvers), type theory, and software security techniques such as fuzzing.
 
 ## Contacts
