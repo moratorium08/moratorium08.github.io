@@ -1,25 +1,18 @@
 # Hiroyuki Katsura (桂 宏行)
 
-I'm Hiroyuki Katsura, 3rd-year PhD student, supervised by [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/) in 3-year PhD course at Dept. of Computer Science, [Graduate School of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml) of The University of Tokyo. 
+I'm currently a Research Associate at the University of Cambridge, working with Prof. Peter Sewell on the REMS project. I completed my PhD at the University of Tokyo under the supervision of Prof. Naoki Kobayashi, where I focused on logic-based automated verification for higher-order programs. 
+My main research interest is in proposing analyses to enhance software reliability, including automated software verification (specifically, CHC solving), type theory, and software security techniques such as fuzzing.
+
 
 ## Contacts
 
 - Email:
-  - University: katsura[at]kb.is.s.u-tokyo.ac.jp
+  - University: hk590[at]cam.ac.uk
   - Gmail: moratorium08[at]gmail.com
-- [GitHub: moratorium08](https://github.com/moratorium08)
-- [Linkedin](https://www.linkedin.com/in/hiroyuki-katsura-325889134/)
-
-## Research Interests
-
-My main research interest is to propose analyses to enhance software reliability.
-This includes:
-
-- (Automated) Software verification
-  - Logic-based automated software verification (c.f. CHC solving)
-  - Refinement types
-- Software security 
-  - Fuzzing
+- GitHub: [moratorium08](https://github.com/moratorium08)
+- Linkedin: [Hiroyuki Katsura](https://www.linkedin.com/in/hiroyuki-katsura-325889134/)
+- Bluesky: [moratorium.bsky.social](https://bsky.app/profile/moratorium.bsky.social)
+   - Proudly posting tedious Japanese content only.
 
 
 ## Publications
@@ -33,7 +26,7 @@ This includes:
 
 ## Education
 
-* Apr 2022 - Now: Doctor of Information Science Kobayashi Lab
+* Apr 2022 - Mar 2025: Doctor of Information Science Kobayashi Lab, Dept. of Computer Science, Grad School of IST, UTokyo
 * Apr 2020 - Mar 2022: Master of Information Science Kobayashi Lab, Dept. of Computer Science, Grad School of IST, UTokyo
 * Apr 2016 - Mar 2020: Bachelor of Science, Dept. of Information Science, School of Science, UTokyo
 
@@ -43,6 +36,14 @@ This includes:
 
 - JSPS (学振) Research Fellowship for Young Scientists DC2, Apr 2023 - Mar 2025
 高階プログラム自動検証のさらなる発展と自動テストへの融合 (Developing Automated Higher-order Program Verification and Combination with Automated Testing): [project detail(ja)](https://research-er.jp/projects/view/1227114)
+
+### Teaching Assistants
+
+I have been a teaching assistant three times at Dept. of Information Science, School of Science, The University of Tokyo.
+
+- Sep 2022 - Feb 2023: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
+- Apr 2023 - Aug 2023: [Functional and Logic Programming Lab](https://catalog.he.u-tokyo.ac.jp/detail?code=0510031&year=2023)
+- Sep 2020 - Feb 2021: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
 
 ### Internships
 
@@ -55,14 +56,6 @@ This includes:
   - Designed a scalable live streaming infrastructure using GCP
 - Sep 2016 - Oct 2017: Unipro Inc, Tokyo
   - Researched translation systems from natural language to "datastore representation" for knowledge.
-
-### Teaching Assistants
-
-I have been a teaching assistant three times at Dept. of Information Science, School of Science, The University of Tokyo.
-
-- Sep 2022 - Feb 2023: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
-- Apr 2023 - Aug 2023: [Functional and Logic Programming Lab](https://catalog.he.u-tokyo.ac.jp/detail?code=0510031&year=2023)
-- Sep 2020 - Feb 2021: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
 
 ### Projects
 
