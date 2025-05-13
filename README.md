@@ -9,13 +9,7 @@ My primary research interests lie in program analyses to improve software reliab
 - Email:
   - University: hk590[at]cl.cam.ac.uk
   - Gmail: moratorium08[at]gmail.com
-- ORCID: [0000-0003-3420-4207](https://orcid.org/0000-0003-3420-4207)
-- GitHub: [moratorium08](https://github.com/moratorium08)
-- Linkedin: [in/hiroyuki-katsura](https://www.linkedin.com/in/hiroyuki-katsura/)
-- Bluesky: [moratorium.bsky.social](https://bsky.app/profile/moratorium.bsky.social)
-   - Proudly posting tedious Japanese content only.
-
-    <a
+-  <a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0000-0003-3420-4207"
@@ -28,6 +22,12 @@ My primary research interests lie in program analyses to improve software reliab
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0003-3420-4207
     </a>
+- GitHub: [moratorium08](https://github.com/moratorium08)
+- Linkedin: [in/hiroyuki-katsura](https://www.linkedin.com/in/hiroyuki-katsura/)
+- Bluesky: [moratorium.bsky.social](https://bsky.app/profile/moratorium.bsky.social)
+   - Proudly posting tedious Japanese content only.
+
+
 
 ## Publications
 
