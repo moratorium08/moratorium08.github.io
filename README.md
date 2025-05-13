@@ -3,6 +3,7 @@
 I'm currently a Research Associate at University of Cambridge, working with Prof. [Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) in the [REMS group](https://www.cl.cam.ac.uk/~pes20/people-new/index.html). I completed my PhD at the University of Tokyo under the supervision of Prof. [Naoki Kobayashi](https://www-kb.is.s.u-tokyo.ac.jp/~koba/), where I focused on logic-based automated verification for higher-order programs. 
 My primary research interests lie in program analyses to improve software reliability, including automated program verification (in particular, fixpoint logic solvers), type theory, and software security techniques such as fuzzing.
 
+
 ## Contacts
 
 - Email:
@@ -14,6 +15,19 @@ My primary research interests lie in program analyses to improve software reliab
 - Bluesky: [moratorium.bsky.social](https://bsky.app/profile/moratorium.bsky.social)
    - Proudly posting tedious Japanese content only.
 
+    <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-3420-4207"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-3420-4207
+    </a>
 
 ## Publications
 
