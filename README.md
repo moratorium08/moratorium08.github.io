@@ -16,10 +16,6 @@ My primary research interests lie in program analyses to improve software reliab
      target="orcid.widget"
      rel="me noopener noreferrer"
      style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
       https://orcid.org/0000-0003-3420-4207
     </a>
 - GitHub: [moratorium08](https://github.com/moratorium08)
@@ -31,8 +27,8 @@ My primary research interests lie in program analyses to improve software reliab
 
 ## Publications
 
+- Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. Automated Catamorphism Synthesis for Solving Constrained Horn Clauses over Algebraic Data Types ([preprint](https://arxiv.org/abs/2507.20726)). SAS 2025 (to appear).
 - Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. [Mode-based Reduction from Validity Checking of Fixpoint Logic Formulas to Test-Friendly Reachability Problem](https://conf.researchr.org/home/aplas-2024#event-overview). APLAS 2024.
-- Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. [Mode-based Transformation from Satisfiability of Constrained Horn Clauses to Test-friendly Reachability Problem](https://www.sci.unich.it/hcvs24/papers/HCVS2024_paper_7.pdf). HCVS 2024.
 - Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. [Higher-Order Property-Directed Reachability](https://doi.org/10.1145/3607831). ICFP 2023. [[video](https://www.youtube.com/watch?v=Pm4Oh_PDe9c)]
 - Yuki Koike, Hiroyuki Katsura, Hiromu Yakura, and Yuma Kurogome: [SLOPT: Bandit Optimization Framework for Mutation-Based Fuzzing](https://doi.org/10.1007/978-3-031-19135-0_8), ACSAC 2022.
 - Kazuyuki Asada, Hiroyuki Katsura, and Naoki Kobayashi.  [On Higher-Order Reachability Games Vs May Reachability](https://doi.org/10.1007/978-3-031-19135-0_8). RP 2022.
