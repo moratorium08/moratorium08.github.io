@@ -9,25 +9,16 @@ My primary research interests lie in program analyses to improve software reliab
 - Email:
   - University: hk590[at]cl.cam.ac.uk
   - Gmail: moratorium08[at]gmail.com
--  <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0003-3420-4207"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-      https://orcid.org/0000-0003-3420-4207
-    </a>
+-  ORCID: [0000-0003-3420-4207](https://orcid.org/0000-0003-3420-4207)
 - GitHub: [moratorium08](https://github.com/moratorium08)
 - Linkedin: [in/hiroyuki-katsura](https://www.linkedin.com/in/hiroyuki-katsura/)
 - Bluesky: [moratorium.bsky.social](https://bsky.app/profile/moratorium.bsky.social)
    - Proudly posting tedious Japanese content only.
 
 
-
 ## Publications
 
-- Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. Automated Catamorphism Synthesis for Solving Constrained Horn Clauses over Algebraic Data Types ([preprint](https://arxiv.org/abs/2507.20726)). SAS 2025 (to appear).
+- Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. Automated Catamorphism Synthesis for Solving Constrained Horn Clauses over Algebraic Data Types. SAS 2025 (to appear). [[preprint](https://arxiv.org/abs/2507.20726)]
 - Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. [Mode-based Reduction from Validity Checking of Fixpoint Logic Formulas to Test-Friendly Reachability Problem](https://conf.researchr.org/home/aplas-2024#event-overview). APLAS 2024.
 - Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. [Higher-Order Property-Directed Reachability](https://doi.org/10.1145/3607831). ICFP 2023. [[video](https://www.youtube.com/watch?v=Pm4Oh_PDe9c)]
 - Yuki Koike, Hiroyuki Katsura, Hiromu Yakura, and Yuma Kurogome: [SLOPT: Bandit Optimization Framework for Mutation-Based Fuzzing](https://doi.org/10.1007/978-3-031-19135-0_8), ACSAC 2022.
