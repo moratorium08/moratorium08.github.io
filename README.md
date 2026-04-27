@@ -7,8 +7,8 @@ My primary research interests lie in program analyses to improve software reliab
 ## Contacts
 
 - Email:
-  - University: hk590[at]cl.cam.ac.uk
-  - Gmail: moratorium08[at]gmail.com
+  - University: `Hiroyuki.Katsura@cl.cam.ac.uk`
+  - Gmail: `moratorium08@gmail.com`
 -  ORCID: [0000-0003-3420-4207](https://orcid.org/0000-0003-3420-4207)
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=phQqBiwAAAAJ)
 - GitHub: [moratorium08](https://github.com/moratorium08)
@@ -31,7 +31,7 @@ My primary research interests lie in program analyses to improve software reliab
 * Apr 2020 - Mar 2022: Master of Information Science Kobayashi Lab, Dept. of Computer Science, Grad School of IST, UTokyo
 * Apr 2016 - Mar 2020: Bachelor of Science, Dept. of Information Science, School of Science, UTokyo
 
-## Experience
+## Experience and Activities
 
 ### Grants
 
@@ -46,30 +46,10 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
 - Apr 2023 - Aug 2023: [Functional and Logic Programming Lab](https://catalog.he.u-tokyo.ac.jp/detail?code=0510031&year=2023)
 - Sep 2020 - Feb 2021: [Processor and Compiler Lab](https://www.is.s.u-tokyo.ac.jp/en/student/lecture/)
 
-### Internships
-
-- Feb 2021 - Aug 2022: Ricerca Security, Tokyo
-  - Studied fuzzing with reinforcement learning
-- Aug - Sep 2020: LINE corp, Tokyo
-  - Developed an automated update for hypervisors on OpenStack using Kubernetes Operator Pattern ([blog post[ja]](https://engineering.linecorp.com/ja/blog/internship-report20-hypervisor-update-system-with-kubernetes)).
-- Aug 2017 - Jul 2018: Flatt Inc, Tokyo
-  - Developed a backend infrastructure for a live commerce app
-  - Designed a scalable live streaming infrastructure using GCP
-- Sep 2016 - Oct 2017: Unipro Inc, Tokyo
-  - Researched translation systems from natural language to "datastore representation" for knowledge.
-
-### Projects
-
-- Google Summer of Code, Libvirt organization as a  Participant Mar - Aug 2019
-  - Developed Rust bindings for libguestfs, which provides a set of tools for manipulating and communicating with virtual machine disk images ([archive](https://summerofcode.withgoogle.com/archive/2019/projects/5735547409006592/)).
-- osmium: an operating system written in Rust which runs on RISC-V
-  - Developed an operating system on RISC-V from scratch using Rust ([article(ja)](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802), [translated one by cb372](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)).
-  - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars 200+)
-
 ## CTF (Capture The Flag; Software Security Competition)
 
-I have been playing CTFs as a member of an university team [TSG](https://ctftime.org/team/16088) whose team members are all from The University of Tokyo. 
-Sometimes, I join in larger teams to compete large contests like DEFCON. I mainly play pwnable (binary exploit) and reversing.
+I have been playing CTFs as a member of a university team [TSG](https://ctftime.org/team/16088).
+I also join larger teams when competing in larger contests like DEFCON. I mainly play pwnable (binary exploit) and reversing.
 
 Here are some of my achievements in CTF contests. Note that due to the collaborative nature of CTFs, my individual contribution varied from one CTF to another :)
 
@@ -91,7 +71,7 @@ Here are some of my achievements in CTF contests. Note that due to the collabora
 
 ### My CTF Challenges
 
-I have created a lot of CTF challenges so far from easy one to harder one for contests including [SECCON CTF](https://seccon.jp/), [International Cybersecurity Challenge (ICC)](https://icc.ecsc.eu/), and [TSG CTF](https://ctf.tsg.ne.jp/).
+I have created many CTF challenges, ranging from easy to difficult, for contests including [SECCON CTF](https://seccon.jp/), [International Cybersecurity Challenge (ICC)](https://icc.ecsc.eu/), and [TSG CTF](https://ctf.tsg.ne.jp/).
 
 My favorite ones are
 
@@ -125,6 +105,26 @@ Random collection of my writeups of my challenges:
 
 
 ## Other Activities
+
+### Internships
+
+- Feb 2021 - Aug 2022: Ricerca Security, Tokyo
+  - Studied fuzzing with reinforcement learning
+- Aug - Sep 2020: LINE corp, Tokyo
+  - Developed an automated update for hypervisors on OpenStack using Kubernetes Operator Pattern ([blog post[ja]](https://engineering.linecorp.com/ja/blog/internship-report20-hypervisor-update-system-with-kubernetes)).
+- Aug 2017 - Jul 2018: Flatt Inc, Tokyo
+  - Developed a backend infrastructure for a live commerce app
+  - Designed a scalable live streaming infrastructure using GCP
+- Sep 2016 - Oct 2017: Unipro Inc, Tokyo
+  - Researched translation systems from natural language to "datastore representation" for knowledge.
+
+### Projects
+
+- Google Summer of Code, Libvirt organization as a  Participant Mar - Aug 2019
+  - Developed Rust bindings for libguestfs, which provides a set of tools for manipulating and communicating with virtual machine disk images ([archive](https://summerofcode.withgoogle.com/archive/2019/projects/5735547409006592/)).
+- osmium: an operating system written in Rust which runs on RISC-V
+  - Developed an operating system on RISC-V from scratch using Rust ([article(ja)](https://moraprogramming.hateblo.jp/entry/2019/03/17/165802), [translated one by cb372](https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb)).
+  - Repo: [https://github.com/moratorium08/osmium](https://github.com/moratorium08/osmium) (Stars 200+)
 
 ### ISUCON
 
