@@ -10,15 +10,15 @@ My primary research interests lie in program analyses to improve software reliab
   - University: hk590[at]cl.cam.ac.uk
   - Gmail: moratorium08[at]gmail.com
 -  ORCID: [0000-0003-3420-4207](https://orcid.org/0000-0003-3420-4207)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=phQqBiwAAAAJ)
 - GitHub: [moratorium08](https://github.com/moratorium08)
 - Linkedin: [in/hiroyuki-katsura](https://www.linkedin.com/in/hiroyuki-katsura/)
-- Bluesky: [moratorium.bsky.social](https://bsky.app/profile/moratorium.bsky.social)
-   - Proudly posting tedious Japanese content only.
-
+- Bluesky (ja): [moratorium.bsky.social](https://bsky.app/profile/moratorium.bsky.social)
 
 ## Publications
 
-- Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. Automated Catamorphism Synthesis for Solving Constrained Horn Clauses over Algebraic Data Types. SAS 2025. [[preprint](https://arxiv.org/abs/2507.20726)]
+- Zain K Aamer, Rini Banerjee, Hiroyuki Katsura, David Kaloper-Meršinjak, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell. Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows. PLDI 2026 (To appear).
+- Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. [Automated Catamorphism Synthesis for Solving Constrained Horn Clauses over Algebraic Data Types](https://dl.acm.org/doi/10.1007/978-3-032-07106-4_13). SAS 2025. [[preprint](https://arxiv.org/abs/2507.20726)]
 - Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. [Mode-based Reduction from Validity Checking of Fixpoint Logic Formulas to Test-Friendly Reachability Problem](https://conf.researchr.org/home/aplas-2024#event-overview). APLAS 2024.
 - Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. [Higher-Order Property-Directed Reachability](https://doi.org/10.1145/3607831). ICFP 2023. [[video](https://www.youtube.com/watch?v=Pm4Oh_PDe9c)]
 - Yuki Koike, Hiroyuki Katsura, Hiromu Yakura, and Yuma Kurogome: [SLOPT: Bandit Optimization Framework for Mutation-Based Fuzzing](https://doi.org/10.1007/978-3-031-19135-0_8), ACSAC 2022.
@@ -68,7 +68,7 @@ I have been a teaching assistant three times at Dept. of Information Science, Sc
 
 ## CTF (Capture The Flag; Software Security Competition)
 
-I have been playing CTFs as a member of an university team [TSG](https://ctftime.org/team/16088) whose team members are all from The University of Tokyo.
+I have been playing CTFs as a member of an university team [TSG](https://ctftime.org/team/16088) whose team members are all from The University of Tokyo. 
 Sometimes, I join in larger teams to compete large contests like DEFCON. I mainly play pwnable (binary exploit) and reversing.
 
 Here are some of my achievements in CTF contests. Note that due to the collaborative nature of CTFs, my individual contribution varied from one CTF to another :)
@@ -91,7 +91,7 @@ Here are some of my achievements in CTF contests. Note that due to the collabora
 
 ### My CTF Challenges
 
-I have created a lot of CTF challenges so far from easy one to harder one: please refer to this page　(TBD).
+I have created a lot of CTF challenges so far from easy one to harder one for contests including [SECCON CTF](https://seccon.jp/), [International Cybersecurity Challenge (ICC)](https://icc.ecsc.eu/), and [TSG CTF](https://ctf.tsg.ne.jp/).
 
 My favorite ones are
 
@@ -102,6 +102,7 @@ My favorite ones are
 
 Random collection of my writeups of my challenges:
 
+- [Verified C @ ICC 2025](https://github.com/ctfplatform/icc-2025-jeopardy-problems/tree/main/pwn/verified-c/solution#english)
 - [SQLite of Hand @ TSG CTF 2024](https://github.com/moratorium08/ctf_writeups/tree/master/2024/tsgctf#sqlite-of-hand-co-authored-with-mikit-pwn-4-solves), co-authored with [mikit](https://x.com/m1kit)
 - [H* @ TSG CTF 2024](https://github.com/moratorium08/ctf_writeups/tree/master/2024/tsgctf#h-misc-4-solves)
 - [Cached File Viewer @ TSG CTF 2024](https://github.com/moratorium08/ctf_writeups/tree/master/2024/tsgctf#cached-file-viewer-2-co-author-httpsxcomazaika_-misc-pwn-76-solves-ver1--12-solves-ver2-), co-authored with [azaika](https://twitter.com/azaika_)
