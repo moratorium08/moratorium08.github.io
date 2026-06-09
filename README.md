@@ -17,7 +17,7 @@ My primary research interests lie in program analyses to improve software reliab
 
 ## Publications
 
-- Zain K Aamer, Rini Banerjee, Hiroyuki Katsura, David Kaloper-Meršinjak, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell. Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows. PLDI 2026 (To appear).
+- Zain K Aamer*, Rini Banerjee*, Hiroyuki Katsura*, David Kaloper-Meršinjak*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C. Pierce, Christopher Pulte, Peter Sewell. [Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation Logic Specification into Conventional Workflows](https://dl.acm.org/doi/10.1145/3808278). PLDI 2026 (To appear). *\*These authors contributed equally*.
 - Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. [Automated Catamorphism Synthesis for Solving Constrained Horn Clauses over Algebraic Data Types](https://dl.acm.org/doi/10.1007/978-3-032-07106-4_13). SAS 2025. [[preprint](https://arxiv.org/abs/2507.20726)]
 - Hiroyuki Katsura, Naoki Kobayashi, Ken Sakayori, and Ryosuke Sato. [Mode-based Reduction from Validity Checking of Fixpoint Logic Formulas to Test-Friendly Reachability Problem](https://conf.researchr.org/home/aplas-2024#event-overview). APLAS 2024.
 - Hiroyuki Katsura, Naoki Kobayashi, and Ryosuke Sato. [Higher-Order Property-Directed Reachability](https://doi.org/10.1145/3607831). ICFP 2023. [[video](https://www.youtube.com/watch?v=Pm4Oh_PDe9c)]
